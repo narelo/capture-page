@@ -2,9 +2,7 @@
 
  <h3 align="center">Página de Captura completa, utilizando HTML, CSS e MailChimp.<h3>
 
-<img src="https://github.com/narelo/capture-page/blob/main/images/example.JPG?raw=true" align="left" alt="home" width="400"> <img src="https://github.com/narelo/capture-page/blob/main/images/inscricao.JPG?raw=true" align="right" alt="subscription" width="400">
-
-<br>
+<img src="https://github.com/narelo/capture-page/blob/main/images/example.JPG?raw=true" alt="home" width="500"> <img src="https://github.com/narelo/capture-page/blob/main/images/inscricao.JPG?raw=true" alt="subscription" width="500">
 
 <p>Esta página de captura foi criada/configurada para uma palestra fictícia.</p>
   
