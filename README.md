@@ -2,7 +2,7 @@
 
  <h3 align="center">Página de Captura completa, utilizando HTML, CSS e MailChimp.</h3>
 
-<img src="https://github.com/narelo/capture-page/blob/main/images/example.JPG?raw=true" alt="home" width="300"> <img src="https://github.com/narelo/capture-page/blob/main/images/inscricao.JPG?raw=true" alt="subscription" width="300">
+<img src="https://github.com/narelo/capture-page/blob/main/images/example.JPG?raw=true" alt="home" width="400"> <img src="https://github.com/narelo/capture-page/blob/main/images/inscricao.JPG?raw=true" alt="subscription" width="400">
 
 <p>Esta página de captura foi criada/configurada para uma palestra fictícia.</p>
 <p>A ferramenta de email marketing utilizada foi a Mailchimp. Depois, de configurada foi integrada ao html da página criada, para receber as informações solicitadas.</p>
